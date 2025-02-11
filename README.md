@@ -21,9 +21,11 @@ is a set of python scripts that runs namd in unix
 enviroments.
 
 * For details on the underlying theory and methods,
-please refer to the following paper:
+please refer to the following paper: (submitted)
 
-TKTK paper
+DNA Origami Nanostructures Observed in Transmission Electron Microscopy Images can be Characterized through Convolutional Neural Networks
+
+Authors: Xingfei Wei, Qiankun Mo, Chi Chen, Mark Bathe, and Rigoberto Hernandez
 
 * For details on how to use NestedAE please refer to the 
 [user_guide.md](https://github.com/rxhernandez/TEMCOIN/blob/main/user_guide.md) in the docs folder.
@@ -48,7 +50,8 @@ Citing
 
 If you use database or codes, please cite the paper:
 
-> TK in preparation.
+> DNA Origami Nanostructures Observed in Transmission Electron Microscopy Images can be Characterized through Convolutional Neural Networks
+(in preparation).
 
 and/or this site:
 
