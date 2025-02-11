@@ -22,10 +22,10 @@ enviroments.
 
 * For details on the underlying theory and methods,
 please refer to the following paper:
+> DNA Origami Nanostructures Observed in Transmission Electron Microscopy Images can be Characterized through Convolutional Neural Networks (in preparation).
 
-DNA Origami Nanostructures Observed in Transmission Electron Microscopy Images can be Characterized through Convolutional Neural Networks (in preparation).
-
-Authors: Xingfei Wei, Qiankun Mo, Chi Chen, Mark Bathe, and Rigoberto Hernandez.
+Authors: 
+> Xingfei Wei, Qiankun Mo, Chi Chen, Mark Bathe, and Rigoberto Hernandez.
 
 * For details on how to use NestedAE please refer to the 
 [user_guide.md](https://github.com/rxhernandez/TEMCOIN/blob/main/user_guide.md) in the docs folder.
