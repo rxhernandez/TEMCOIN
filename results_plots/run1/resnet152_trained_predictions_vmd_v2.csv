@@ -1,0 +1,21 @@
+Image Name, Predicted Class, Probabilities
+dimer121.png, 1QD-2origami, 1.35, 98.32, 0.17, 0.00, 0.07, 0.10
+dimer134.png, 1QD-2origami, 0.34, 99.45, 0.02, 0.00, 0.17, 0.02
+dimer144.png, 1QD-3origami, 0.05, 49.04, 50.84, 0.06, 0.01, 0.00
+dimer157.png, 1QD-3origami, 2.30, 44.38, 50.94, 0.55, 1.47, 0.37
+hexamer122.png, 1QD-6origami, 0.02, 0.02, 0.10, 0.09, 0.25, 99.52
+hexamer161.png, 1QD-6origami, 0.03, 0.04, 12.72, 14.57, 8.80, 63.84
+mono121.png, 1QD-1origami, 99.93, 0.05, 0.01, 0.00, 0.00, 0.00
+mono133.png, 1QD-1origami, 99.94, 0.05, 0.01, 0.00, 0.00, 0.00
+mono145.png, 1QD-1origami, 99.72, 0.19, 0.03, 0.03, 0.03, 0.00
+mono158.png, 1QD-1origami, 99.88, 0.11, 0.00, 0.00, 0.00, 0.00
+pentamer123.png, 1QD-4origami, 0.10, 0.06, 0.05, 93.81, 5.46, 0.52
+pentamer176.png, 1QD-4origami, 0.08, 0.09, 0.67, 96.10, 1.46, 1.60
+tetramer121.png, 1QD-4origami, 0.00, 0.00, 0.09, 99.88, 0.01, 0.00
+tetramer134.png, 1QD-4origami, 0.02, 0.01, 0.02, 99.74, 0.20, 0.02
+tetramer145.png, 1QD-4origami, 0.07, 0.04, 0.03, 98.98, 0.71, 0.18
+tetramer165.png, 1QD-4origami, 0.02, 0.03, 0.01, 99.76, 0.14, 0.03
+trimer127.png, 1QD-4origami, 0.27, 22.48, 32.16, 39.39, 5.67, 0.03
+trimer140.png, 1QD-4origami, 0.04, 0.14, 1.27, 98.48, 0.05, 0.02
+trimer158.png, 1QD-4origami, 0.07, 0.46, 8.36, 90.99, 0.06, 0.06
+trimer174.png, 1QD-4origami, 0.00, 0.00, 0.71, 99.27, 0.01, 0.01

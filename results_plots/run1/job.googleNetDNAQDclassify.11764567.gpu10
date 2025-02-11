@@ -1,0 +1,348 @@
++----------+----------+---------+--------+
+|   Used   |  Quota   | Percent | Files  |
++----------+----------+---------+--------+
+| 41.98 GB | 50.00 GB |  83.95% | 59,315 |
++----------+----------+---------+--------+
+
++-----------+----------+----------+--------+------------+-------------+---------+
+|     FS    |   Used   |  Quota   | Used % |   Files    | Files Quota | Files % |
++-----------+----------+----------+--------+------------+-------------+---------+
+|    data   | 4.14 TB  | 11.00 TB | 37.00% |  984,786   |  4,505,600  |  21.00% |
+|  scratch4 | 10.65 TB | 15.00 TB | 70.00% | 11,294,303 |  30,720,000 |  36.00% |
+| scratch16 | 16.67 TB | 25.00 TB | 66.00% | 2,149,270  |  25,600,000 |  8.00%  |
++-----------+----------+----------+--------+------------+-------------+---------+
+
+
+Currently Loaded Modules:
+  1) gcc/9.3.0       4) lmod/8.7.24     7) git/2.28.0        10) own/0.1
+  2) openmpi/3.1.6   5) lua/5.4.4       8) standard/2020.10
+  3) slurm/19.05.7   6) helpers/0.1.1   9) cuda/12.1.0
+/home/xwei20/.conda/envs/gpu_test/lib/python3.8/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home/xwei20/.conda/envs/gpu_test/lib/python3.8/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=GoogLeNet_Weights.IMAGENET1K_V1`. You can also use `weights=GoogLeNet_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Epoch 1, Loss: 1.768867062197791
+Accuracy after epoch 1: 29.86111111111111%
+Epoch 2, Loss: 1.583101259337531
+Accuracy after epoch 2: 39.583333333333336%
+Epoch 3, Loss: 1.4227741095754836
+Accuracy after epoch 3: 45.138888888888886%
+Epoch 4, Loss: 1.2257454329066806
+Accuracy after epoch 4: 51.388888888888886%
+Epoch 5, Loss: 1.0578143662876553
+Accuracy after epoch 5: 55.55555555555556%
+Epoch 6, Loss: 0.8974232309394412
+Accuracy after epoch 6: 63.19444444444444%
+Epoch 7, Loss: 0.7786193655596839
+Accuracy after epoch 7: 65.27777777777777%
+Epoch 8, Loss: 0.6646823982397715
+Accuracy after epoch 8: 68.75%
+Epoch 9, Loss: 0.5355995098749796
+Accuracy after epoch 9: 69.44444444444444%
+Epoch 10, Loss: 0.43729668358961743
+Accuracy after epoch 10: 75.0%
+Epoch 11, Loss: 0.3798147059149212
+Accuracy after epoch 11: 70.83333333333333%
+Epoch 12, Loss: 0.29148922860622406
+Accuracy after epoch 12: 76.38888888888889%
+Epoch 13, Loss: 0.21009947856267294
+Accuracy after epoch 13: 76.38888888888889%
+Epoch 14, Loss: 0.19802515043152702
+Accuracy after epoch 14: 77.08333333333333%
+Epoch 15, Loss: 0.158341772440407
+Accuracy after epoch 15: 76.38888888888889%
+Epoch 16, Loss: 0.11270755570795801
+Accuracy after epoch 16: 77.08333333333333%
+Epoch 17, Loss: 0.09374139375156826
+Accuracy after epoch 17: 77.08333333333333%
+Epoch 18, Loss: 0.09048116621043947
+Accuracy after epoch 18: 79.16666666666667%
+Epoch 19, Loss: 0.07099705893132421
+Accuracy after epoch 19: 78.47222222222223%
+Epoch 20, Loss: 0.06979022278553909
+Accuracy after epoch 20: 79.86111111111111%
+Epoch 21, Loss: 0.055658507264322706
+Accuracy after epoch 21: 79.86111111111111%
+Epoch 22, Loss: 0.039786730582515396
+Accuracy after epoch 22: 78.47222222222223%
+Epoch 23, Loss: 0.04256791414486037
+Accuracy after epoch 23: 79.16666666666667%
+Epoch 24, Loss: 0.03762804406384627
+Accuracy after epoch 24: 77.77777777777777%
+Epoch 25, Loss: 0.03605855659892162
+Accuracy after epoch 25: 78.47222222222223%
+Epoch 26, Loss: 0.02637529248992602
+Accuracy after epoch 26: 77.08333333333333%
+Epoch 27, Loss: 0.02757884230878618
+Accuracy after epoch 27: 77.77777777777777%
+Epoch 28, Loss: 0.023766243571622506
+Accuracy after epoch 28: 80.55555555555556%
+Epoch 29, Loss: 0.025481980656170182
+Accuracy after epoch 29: 79.86111111111111%
+Epoch 30, Loss: 0.02175802116592725
+Accuracy after epoch 30: 78.47222222222223%
+Epoch 31, Loss: 0.021922558701286714
+Accuracy after epoch 31: 79.86111111111111%
+Epoch 32, Loss: 0.022778337873104546
+Accuracy after epoch 32: 79.16666666666667%
+Epoch 33, Loss: 0.02192082716565993
+Accuracy after epoch 33: 79.16666666666667%
+Epoch 34, Loss: 0.01625116474719511
+Accuracy after epoch 34: 78.47222222222223%
+Epoch 35, Loss: 0.01778082565094034
+Accuracy after epoch 35: 79.16666666666667%
+Epoch 36, Loss: 0.016472213953319523
+Accuracy after epoch 36: 79.16666666666667%
+Epoch 37, Loss: 0.01336747700245016
+Accuracy after epoch 37: 79.86111111111111%
+Epoch 38, Loss: 0.017275084068791732
+Accuracy after epoch 38: 79.16666666666667%
+Epoch 39, Loss: 0.016448469677319128
+Accuracy after epoch 39: 80.55555555555556%
+Epoch 40, Loss: 0.012326816666043468
+Accuracy after epoch 40: 81.25%
+Epoch 41, Loss: 0.012535124836075637
+Accuracy after epoch 41: 79.86111111111111%
+Epoch 42, Loss: 0.012174408546545439
+Accuracy after epoch 42: 79.16666666666667%
+Epoch 43, Loss: 0.01515335931132237
+Accuracy after epoch 43: 79.86111111111111%
+Epoch 44, Loss: 0.015746472222316597
+Accuracy after epoch 44: 80.55555555555556%
+Epoch 45, Loss: 0.012682173582207825
+Accuracy after epoch 45: 77.08333333333333%
+Epoch 46, Loss: 0.01381556531931791
+Accuracy after epoch 46: 79.86111111111111%
+Epoch 47, Loss: 0.009264159171531597
+Accuracy after epoch 47: 79.16666666666667%
+Epoch 48, Loss: 0.009071460200680627
+Accuracy after epoch 48: 78.47222222222223%
+Epoch 49, Loss: 0.012040250132688217
+Accuracy after epoch 49: 78.47222222222223%
+Epoch 50, Loss: 0.008781052013445232
+Accuracy after epoch 50: 77.77777777777777%
+Epoch 51, Loss: 0.011260740562445588
+Accuracy after epoch 51: 77.77777777777777%
+Epoch 52, Loss: 0.008622112968522642
+Accuracy after epoch 52: 78.47222222222223%
+Epoch 53, Loss: 0.009394748136401176
+Accuracy after epoch 53: 79.16666666666667%
+Epoch 54, Loss: 0.008425973187614646
+Accuracy after epoch 54: 79.16666666666667%
+Epoch 55, Loss: 0.009289243517236577
+Accuracy after epoch 55: 79.86111111111111%
+Epoch 56, Loss: 0.009654324243052138
+Accuracy after epoch 56: 77.77777777777777%
+Epoch 57, Loss: 0.0102252795930124
+Accuracy after epoch 57: 78.47222222222223%
+Epoch 58, Loss: 0.008570011110148497
+Accuracy after epoch 58: 77.08333333333333%
+Epoch 59, Loss: 0.007023638890435298
+Accuracy after epoch 59: 77.77777777777777%
+Epoch 60, Loss: 0.008732470554403134
+Accuracy after epoch 60: 79.16666666666667%
+Epoch 61, Loss: 0.006999119094366001
+Accuracy after epoch 61: 79.16666666666667%
+Epoch 62, Loss: 0.0073601798050933415
+Accuracy after epoch 62: 79.16666666666667%
+Epoch 63, Loss: 0.008782842636315359
+Accuracy after epoch 63: 79.86111111111111%
+Epoch 64, Loss: 0.006979230778395302
+Accuracy after epoch 64: 81.25%
+Epoch 65, Loss: 0.007115912778923909
+Accuracy after epoch 65: 80.55555555555556%
+Epoch 66, Loss: 0.008220163148103489
+Accuracy after epoch 66: 80.55555555555556%
+Epoch 67, Loss: 0.007157575145053367
+Accuracy after epoch 67: 80.55555555555556%
+Epoch 68, Loss: 0.007360362072682215
+Accuracy after epoch 68: 79.86111111111111%
+Epoch 69, Loss: 0.005964696769499117
+Accuracy after epoch 69: 79.86111111111111%
+Epoch 70, Loss: 0.005558866697053115
+Accuracy after epoch 70: 79.16666666666667%
+Epoch 71, Loss: 0.007268990946209265
+Accuracy after epoch 71: 79.86111111111111%
+Epoch 72, Loss: 0.005528339236560795
+Accuracy after epoch 72: 78.47222222222223%
+Epoch 73, Loss: 0.005462430378732582
+Accuracy after epoch 73: 79.16666666666667%
+Epoch 74, Loss: 0.00725816789134923
+Accuracy after epoch 74: 79.86111111111111%
+Epoch 75, Loss: 0.005704982426121003
+Accuracy after epoch 75: 79.16666666666667%
+Epoch 76, Loss: 0.00564465419544528
+Accuracy after epoch 76: 78.47222222222223%
+Epoch 77, Loss: 0.005205872908441557
+Accuracy after epoch 77: 79.86111111111111%
+Epoch 78, Loss: 0.0047875567753281854
+Accuracy after epoch 78: 78.47222222222223%
+Epoch 79, Loss: 0.00510296656931233
+Accuracy after epoch 79: 77.77777777777777%
+Epoch 80, Loss: 0.006046143140540355
+Accuracy after epoch 80: 79.16666666666667%
+Epoch 81, Loss: 0.006048275597600473
+Accuracy after epoch 81: 77.08333333333333%
+Epoch 82, Loss: 0.006719554871475945
+Accuracy after epoch 82: 79.16666666666667%
+Epoch 83, Loss: 0.00492725243869548
+Accuracy after epoch 83: 77.77777777777777%
+Epoch 84, Loss: 0.004292847006581724
+Accuracy after epoch 84: 79.86111111111111%
+Epoch 85, Loss: 0.003454105825059944
+Accuracy after epoch 85: 80.55555555555556%
+Epoch 86, Loss: 0.004140640020422224
+Accuracy after epoch 86: 80.55555555555556%
+Epoch 87, Loss: 0.004113012278038595
+Accuracy after epoch 87: 79.86111111111111%
+Epoch 88, Loss: 0.004919941355991695
+Accuracy after epoch 88: 77.08333333333333%
+Epoch 89, Loss: 0.005239070244392173
+Accuracy after epoch 89: 79.86111111111111%
+Epoch 90, Loss: 0.0075974072032194175
+Accuracy after epoch 90: 77.77777777777777%
+Epoch 1, Loss: 1.7659076708601789
+Epoch 2, Loss: 3.401292087440379
+Epoch 3, Loss: 4.954677798156626
+Epoch 4, Loss: 6.415904046897777
+Epoch 5, Loss: 7.789404918556102
+Epoch 6, Loss: 9.143556787376292
+Epoch 7, Loss: 10.430624915962108
+Epoch 8, Loss: 11.658030011062511
+Epoch 9, Loss: 12.855458523635752
+Epoch 10, Loss: 14.020211650733836
+Epoch 11, Loss: 15.200107457046396
+Epoch 12, Loss: 16.280820919875985
+Epoch 13, Loss: 17.297321190242656
+Epoch 14, Loss: 18.330946101550943
+Epoch 15, Loss: 19.343935634498486
+Epoch 16, Loss: 20.318223037128337
+Epoch 17, Loss: 21.296095682983285
+Epoch 18, Loss: 22.221667041187175
+Epoch 19, Loss: 23.140015031700024
+Epoch 20, Loss: 24.068295969371682
+Epoch 21, Loss: 24.87834367931355
+Epoch 22, Loss: 25.695775701408273
+Epoch 23, Loss: 26.5545100587653
+Epoch 24, Loss: 27.347492124442944
+Epoch 25, Loss: 28.13119896829594
+Epoch 26, Loss: 28.842338599567302
+Epoch 27, Loss: 29.621273257141002
+Epoch 28, Loss: 30.34919942796696
+Epoch 29, Loss: 31.09517748535145
+Epoch 30, Loss: 31.801969899539834
+Epoch 31, Loss: 32.53251596868504
+Epoch 32, Loss: 33.22302940071095
+Epoch 33, Loss: 33.91867101371754
+Epoch 34, Loss: 34.563613261585125
+Epoch 35, Loss: 35.20932766378392
+Epoch 36, Loss: 35.81122306764591
+Epoch 37, Loss: 36.39843361556996
+Epoch 38, Loss: 37.02525177181233
+Epoch 39, Loss: 37.66196028173435
+Epoch 40, Loss: 38.28515500009526
+Epoch 41, Loss: 38.85720388472546
+Epoch 42, Loss: 39.435371293430215
+Epoch 43, Loss: 39.962656177883034
+Epoch 44, Loss: 40.49872743666638
+Epoch 45, Loss: 41.02807138741482
+Epoch 46, Loss: 41.603298212890515
+Epoch 47, Loss: 42.08858380496967
+Epoch 48, Loss: 42.61839270174969
+Epoch 49, Loss: 43.117402597074395
+Epoch 50, Loss: 43.62442340434063
+Epoch 51, Loss: 44.120562739972954
+Epoch 52, Loss: 44.6029891389655
+Epoch 53, Loss: 45.0593759077834
+Epoch 54, Loss: 45.52382353127469
+Epoch 55, Loss: 46.04620008051861
+Epoch 56, Loss: 46.47466243088711
+Epoch 57, Loss: 46.92632801115978
+Epoch 58, Loss: 47.33786913335789
+Epoch 59, Loss: 47.77620473683346
+Epoch 60, Loss: 48.19633241475094
+Epoch 61, Loss: 48.580214877729304
+Epoch 62, Loss: 48.96658592999447
+Epoch 63, Loss: 49.39150983870495
+Epoch 64, Loss: 49.85294238508213
+Epoch 65, Loss: 50.233739342098126
+Epoch 66, Loss: 50.616112651233564
+Epoch 67, Loss: 51.00961744964589
+Epoch 68, Loss: 51.45936048806179
+Epoch 69, Loss: 51.85082844079007
+Epoch 70, Loss: 52.21681366146076
+Epoch 71, Loss: 52.649747272138484
+Epoch 72, Loss: 53.046850778465156
+Epoch 73, Loss: 53.42351139367092
+Epoch 74, Loss: 53.78022200048436
+Epoch 75, Loss: 54.13810720623005
+Epoch 76, Loss: 54.48069485605229
+Epoch 77, Loss: 54.84092197597492
+Epoch 78, Loss: 55.18631792843807
+Epoch 79, Loss: 55.58001690090168
+Epoch 80, Loss: 55.91453041017521
+Epoch 81, Loss: 56.24158501208294
+Epoch 82, Loss: 56.53969527662266
+Epoch 83, Loss: 56.817463793163185
+Epoch 84, Loss: 57.13839643180836
+Epoch 85, Loss: 57.45641639709938
+Epoch 86, Loss: 57.8460383880185
+Epoch 87, Loss: 58.19178378463257
+Epoch 88, Loss: 58.50126197815407
+Epoch 89, Loss: 58.9028146076249
+Epoch 90, Loss: 59.203383483295326
+Total Parameters: 5606054
+Trainable Parameters: 5606054
+Estimated Model Size (MB): 21.39
+Image: 4Pep-1b-QD_0020_a.png, Predicted class: 1QD-6origami
+Image: 4Pep-1b-QD_0020_b.png, Predicted class: 1QD-4origami
+Image: 4Pep-1b-QD_0020_c.png, Predicted class: 1QD-4origami
+Image: 4Pep-1b-QD_0020_d.png, Predicted class: 1QD-2origami
+Image: 4Pep-1b-QD_0020_e.png, Predicted class: 1QD-2origami
+Image: 4Pep-1b-QD_0020_f.png, Predicted class: 1QD-4origami
+Image: 4Pep-1b-QD_0037_a.png, Predicted class: 1QD-5origami
+Image: 4Pep-1b-QD_0037_b.png, Predicted class: 1QD-5origami
+Image: 4Pep-1b-QD_0037_c.png, Predicted class: 1QD-4origami
+Image: 4Pep-1b-QD_0037_d.png, Predicted class: 1QD-6origami
+Image: 4Pep-1b-QD_0037_e.png, Predicted class: 1QD-6origami
+Image: 4Pep-1b-QD_0037_f.png, Predicted class: 1QD-5origami
+Image: Pep-1b-QD655_0015_a.png, Predicted class: 1QD-1origami
+Image: Pep-1b-QD655_0015_b.png, Predicted class: 1QD-3origami
+Image: Pep-1b-QD655_0015_c.png, Predicted class: 1QD-2origami
+Image: Pep-1b-QD655_0015_d.png, Predicted class: 1QD-1origami
+Image: Pep-1b-QD655_0015_e.png, Predicted class: 1QD-2origami
+Image: Pep-1b-QD655_0015_f.png, Predicted class: 1QD-3origami
+Image: Pep-1b-QD655_0019_a.png, Predicted class: 1QD-1origami
+Image: Pep-1b-QD655_0019_b.png, Predicted class: 1QD-1origami
+Image: Pep-1b-QD655_0019_c.png, Predicted class: 1QD-2origami
+Image: Pep-1b-QD655_0019_d.png, Predicted class: 1QD-1origami
+Image: Pep-1b-QD655_0019_e.png, Predicted class: 1QD-1origami
+Image: Pep-1b-QD655_0019_f.png, Predicted class: 1QD-1origami
+Image: unknown01.png, Predicted class: 1QD-3origami
+Image: unknown02.png, Predicted class: 1QD-3origami
+Image: unknown03.png, Predicted class: 1QD-2origami
+Image: unknown04.png, Predicted class: 1QD-1origami
+Image: unknown05.png, Predicted class: 1QD-1origami
+Image: unknown06.png, Predicted class: 1QD-1origami
+Image: unknown07.png, Predicted class: 1QD-1origami
+Image: unknown08.png, Predicted class: 1QD-1origami
+Image: unknown09.png, Predicted class: 1QD-1origami
+Image: unknown10.png, Predicted class: 1QD-4origami
+Image: unknown11.png, Predicted class: 1QD-3origami
+Image: unknown12.png, Predicted class: 1QD-4origami
+Image: unknown13.png, Predicted class: 1QD-1origami
+Image: unknown14.png, Predicted class: 1QD-1origami
+Image: unknown15.png, Predicted class: 1QD-3origami
+Image: unknown16.png, Predicted class: 1QD-4origami
+Image: unknown17.png, Predicted class: 1QD-6origami
+Image: unknown18.png, Predicted class: 1QD-4origami
+Image: unknown19.png, Predicted class: 1QD-4origami
+Image: unknown20.png, Predicted class: 1QD-6origami
+Predicted class index: 2, with probability: 0.29856443405151367
+Probabilities for all classes: [0.06567817 0.27856675 0.29856443 0.27600393 0.0805079  0.0006789 ]
+Total runtime of the script: 603.4846119880676 seconds
+/home/xwei20/.conda/envs/gpu_test/lib/python3.8/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home/xwei20/.conda/envs/gpu_test/lib/python3.8/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=GoogLeNet_Weights.IMAGENET1K_V1`. You can also use `weights=GoogLeNet_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.

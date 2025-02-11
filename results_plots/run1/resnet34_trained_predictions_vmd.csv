@@ -1,0 +1,21 @@
+Image Name, Predicted Class, Probabilities
+image1.png, 1QD-1origami, 99.64, 0.02, 0.29, 0.01, 0.03, 0.01
+image10.png, 1QD-3origami, 0.19, 1.75, 92.05, 4.95, 1.04, 0.01
+image11.png, 1QD-2origami, 0.18, 77.28, 17.48, 0.81, 2.14, 2.11
+image12.png, 1QD-4origami, 9.03, 23.93, 9.82, 50.06, 0.20, 6.97
+image13.png, 1QD-4origami, 0.97, 11.40, 5.98, 76.52, 2.68, 2.45
+image14.png, 1QD-3origami, 0.18, 0.16, 81.00, 2.97, 14.75, 0.94
+image15.png, 1QD-3origami, 0.50, 24.02, 46.45, 0.89, 27.88, 0.26
+image16.png, 1QD-3origami, 0.27, 0.74, 70.52, 7.28, 20.97, 0.22
+image17.png, 1QD-6origami, 0.30, 0.49, 4.76, 5.67, 10.72, 78.05
+image18.png, 1QD-6origami, 0.06, 0.12, 0.04, 0.30, 20.92, 78.55
+image19.png, 1QD-6origami, 0.05, 0.04, 0.44, 2.84, 20.38, 76.25
+image2.png, 1QD-1origami, 92.04, 7.78, 0.04, 0.05, 0.08, 0.02
+image20.png, 1QD-6origami, 0.07, 0.23, 0.14, 1.20, 2.26, 96.10
+image3.png, 1QD-1origami, 99.68, 0.19, 0.09, 0.02, 0.02, 0.01
+image4.png, 1QD-1origami, 93.08, 6.62, 0.13, 0.07, 0.06, 0.05
+image5.png, 1QD-1origami, 56.66, 22.41, 7.35, 9.54, 3.67, 0.39
+image6.png, 1QD-4origami, 3.44, 29.41, 2.14, 64.86, 0.07, 0.07
+image7.png, 1QD-1origami, 94.01, 3.23, 2.23, 0.40, 0.10, 0.03
+image8.png, 1QD-2origami, 0.05, 99.77, 0.17, 0.00, 0.01, 0.00
+image9.png, 1QD-2origami, 3.07, 48.18, 31.74, 15.32, 1.34, 0.36
