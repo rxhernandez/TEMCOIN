@@ -3,7 +3,13 @@ Code base for Counting Origamis In Nanostructures in TEM Images
 
 ----------------
 
-TEMCOIN provides...
+TEMCOIN provides benchmarking CNN models to predict ligation numbers in DNA origami nanostructures.
+
+This repository includes the following content:
+Training and validation dataset in simulation/ and TEM/ folders.
+Testing unknown dataset in predictVMD/ and predictTEM/ folders.
+The python3 codes are in the models/ folder.
+All the 10 different runs are in the results_plots/ folder with the python code to do data analysis and plot.
 
 <hr>
 
