@@ -50,11 +50,11 @@ Citing
 
 If you use database or codes, please cite the paper:
 
-> DNA Origami Nanostructures Observed in Transmission Electron Microscopy Images can be Characterized through Convolutional Neural Networks (in preparation).
+>X. Wei, Q. Mo, C. Chen, M. Bathe and R. Hernandez, "DNA Origami Nanostructures Observed in Transmission Electron Microscopy Images can be Characterized through Convolutional Neural Networks," (in preparation).
 
 and/or this site:
 
->X. Wei, Q. Mo, and R. Hernandez, TEMCOIN, URL, [https://github.com/rxhernandez/TEMCOIN](https://github.com/rxhernandez/TEMCOIN)
+>X. Wei, Q. Mo and R. Hernandez, TEMCOIN, URL, [https://github.com/rxhernandez/TEMCOIN](https://github.com/rxhernandez/TEMCOIN)
 
 <hr>
 
