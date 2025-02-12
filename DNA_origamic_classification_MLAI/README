@@ -1,1 +1,7 @@
 This folder contains all the Python code for different ML/AI models used in our paper.
+
+(1) The MD simulation image training datasets are in foler: TEMCOIN/simulation/ 
+(2) The TEM experimental image fine-tuning datasets are in folder: TEMCOIN/TEM/ 
+(3) The 20 testing data MD simulation images are in folder: TEMCOIN/predictVMD/ 
+(4) The 20 testing TEM experimental images are in folder: TEMCOIN/predictTEM/ 
+(5) The 4 large TEM experimental images are for classification are also in folder: TEMCOIN/predictTEM/ 
