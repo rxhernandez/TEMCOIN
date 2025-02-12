@@ -1,1 +1,3 @@
 This folder contain the testing dataset of 20 MD simulation images.
+
+The codes of CNN models are in folder: TEMCOIN/DNA_origami_classification_MLAI/
