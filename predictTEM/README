@@ -4,3 +4,5 @@ All other images are many DNA origami nanostructures cut from large TEM images f
 4Pep-1b-QD_0037_a.png to 4Pep-1b-QD_0037_f.png are cut from large TEM imgage 4Pep-1b-QD_0037.tif
 Pep-1b-QD655_0015_a.png to Pep-1b-QD655_0015_f.png are cut from large TEM imgage Pep-1b-QD655_0015.tif
 Pep-1b-QD655_0019_a.png to Pep-1b-QD655_0019_f.png are cut from large TEM imgage Pep-1b-QD655_0019.tif
+
+The codes of CNN models are in folder: TEMCOIN/DNA_origami_classification_MLAI/
