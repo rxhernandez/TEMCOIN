@@ -1,2 +1,4 @@
 This folder contains all the TEM images for fine-tuning the CNNs.
 Please unzip the files, each of the zip file is a folder that contains 10 to 40 TEM images.
+
+The codes of CNN models are in folder: TEMCOIN/DNA_origami_classification_MLAI/
