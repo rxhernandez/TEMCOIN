@@ -13,6 +13,16 @@ All the 10 different runs are in the folder: results_plots/ with the python code
 
 <hr>
 
+# Installation
+----------------
+
+<hr>
+
+# Code Testing and Confirmation
+----------------
+
+<hr>
+
 Documentation
 ----------------
 
