@@ -54,12 +54,8 @@ dependencies = [
     "typing-extensions==4.10.0",
     "zipp==3.17.0"
 ]
-dynamic=["version"]
 
 [project.urls]
 Homepage = "https://github.com/rxhernandez/TEMCOIN"
 Documentation = "https://github.com/rxhernandez/TEMCOIN"
 Repository = "https://github.com/rxhernandez/TEMCOIN.git"
-
-[tool.setuptools.dynamic]
-version={attr="test_package.__version__"}
