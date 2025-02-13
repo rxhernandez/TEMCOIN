@@ -31,11 +31,6 @@ $ pip install dist/TEMCOIN-0.1.0-py3-none-any.whl
 
 <hr>
 
-# Code Testing and Confirmation
-----------------
-
-<hr>
-
 Documentation
 ----------------
 
