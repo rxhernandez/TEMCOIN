@@ -17,7 +17,7 @@ All the 10 different runs are in the folder: results_plots/ with the python code
 ----------------
 TEMCOIN requires Python 3.8 or later to run. 
 
-You can the TEMCOIN package from the source distribution (sdist). For this, first ensure you have the build python package.
+You can install the TEMCOIN package from the source distribution (sdist). For this, first ensure you have the build python package.
 
 $ pip install --upgrade build
 
