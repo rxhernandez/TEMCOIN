@@ -15,6 +15,19 @@ All the 10 different runs are in the folder: results_plots/ with the python code
 
 # Installation
 ----------------
+TEMCOIN requires Python 3.8 or later to run. 
+
+You can the TEMCOIN package from the source distribution (sdist). For this, first ensure you have the build python package.
+
+$ pip install --upgrade build
+
+Once the build package is installed, run the following command in the terminal.
+
+$ python -m build --wheel
+
+This command runs the build backend (in this case, setuptools), which copies all the sdist, gets the package dependencies and creates a python wheel (.whl) file. The python wheel is essentially a zip file with a specially formatted name and comes in a ready to install format with pip. Running the below command should install ReLMM in your virtual environment.
+
+$ pip install dist/TEMCOIN-0.1.0-py3-none-any.whl
 
 <hr>
 
