@@ -17,7 +17,7 @@ All the 10 different runs are in the folder: results_plots/ with the python code
 ----------------
 Run the script for installation.
 ```bash
-$ curl -fsSL https://raw.githubusercontent.com/rxhernandez/TEMCOIN/main/TEMCOIN_install.sh | bash
+$ curl -fsSL https://github.com/rxhernandez/TEMCOIN/blob/main/TEMCOIN_install.sh | bash
 ```
 You may also install TEMCOIN manually. 
 
