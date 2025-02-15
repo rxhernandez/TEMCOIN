@@ -15,6 +15,12 @@ All the 10 different runs are in the folder: results_plots/ with the python code
 
 # Installation
 ----------------
+Run the script for installation.
+
+$ curl -fsSL https://raw.githubusercontent.com/rxhernandez/TEMCOIN/main/TEMCOIN_install.sh | bash
+
+You may also manually install. 
+
 TEMCOIN requires Python 3.8 or later to run. 
 
 You can install the TEMCOIN package from the source distribution (sdist). For this, first ensure you have the build python package.
