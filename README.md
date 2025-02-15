@@ -34,10 +34,12 @@ Once the build package is installed, run the following command in the terminal.
 $ python -m build --wheel
 ```
 This command runs the build backend (in this case, setuptools), which copies all the sdist, gets the package dependencies and creates a python wheel (.whl) file. The python wheel is essentially a zip file with a specially formatted name and comes in a ready to install format with pip. Running the below command should install ReLMM in your virtual environment. As an example, we upload the wheel file that we have built in /dist/TEMCOIN-0.1.0-py3-none-any.whl 
-```
-To run the install the whl file, your system requires to downgrade importlib-metadata to a version compatible with zipp 3.17.0
+
+To run the install the whl file, your system needs to downgrade importlib-metadata to a version compatible with zipp 3.17.0
 ```
 $ pip install importlib-metadata==4.12.0
+```
+Then install TEMCOIN
 ```
 $ pip install dist/TEMCOIN-0.1.0-py3-none-any.whl
 ```
