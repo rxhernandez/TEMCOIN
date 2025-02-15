@@ -24,7 +24,7 @@ use the download option to download the TEMCOIN.zip then unzip TEMCOIN.zip
 ```
 $ cd TEMCOIN
 $ module load anaconda
-$ conda activate envion_test
+$ conda activate environ_xyz
 ```
 
 TEMCOIN requires Python 3.8 or later to run. You can install the TEMCOIN package from the source distribution (sdist). For this, first ensure you have the build python package.
