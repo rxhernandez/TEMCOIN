@@ -1,5 +1,4 @@
 # Documentation & Installation
-----------------
 
 Documentation
 ----------------
@@ -67,14 +66,13 @@ The testing codes are provided in the folder:
 ```
 TEMCOIN/tests/212
 ```
-----------------
 
 <hr>
 
 Authors
 ----------------
 
-The TEMCOIN codes were debeloped by Xingfei Wei, Qiankun Mo, and Rigoberto Hernandez.
+The TEMCOIN codes were developed by Xingfei Wei, Qiankun Mo, and Rigoberto Hernandez.
 
 Contributors can be found [here](https://github.com/rxhernandez/TEMCOIN/blob/main/contributors).
 
