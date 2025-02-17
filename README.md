@@ -50,9 +50,8 @@ $ pip install dist/TEMCOIN-0.1.0-py3-none-any.whl
 Documentation
 ----------------
 
-This repository contains code to implement TEMCOIN. It 
-is a set of python scripts that runs namd in unix
-enviroments.
+This repository contains code to implement TEMCOIN. 
+It is a set of python scripts that runs namd in unix enviroments.
 
 * For details on the underlying theory and methods,
 please refer to the following paper:
@@ -73,7 +72,7 @@ to the authors of the paper.
 Authors
 ----------------
 
-The TEMCOIN codes were debeloped by
+The TEMCOIN codes were debeloped by Xingfei Wei, Qiankun Mo, and Rigoberto Hernandez.
 
 Contributors can be found [here](https://github.com/rxhernandez/TEMCOIN/graphs/contributors).
 
