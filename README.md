@@ -14,7 +14,6 @@ All the 10 different runs are in the folder: results_plots/ with the python code
 <hr>
 
 # Installation
-----------------
 Run the script for installation.
 ```bash
 $ curl -fsSL https://github.com/rxhernandez/TEMCOIN/blob/main/TEMCOIN_install.sh | bash
@@ -22,8 +21,11 @@ $ curl -fsSL https://github.com/rxhernandez/TEMCOIN/blob/main/TEMCOIN_install.sh
 <hr>
 
 # Unittest
+The testing codes are provided in the folder: 
+```
+TEMCOIN/tests/212
+```
 ----------------
-The testing codes are provided in the folder: TEMCOIN/tests/
 
 Documentation
 ----------------
