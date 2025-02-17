@@ -47,6 +47,10 @@ $ pip install dist/TEMCOIN-0.1.0-py3-none-any.whl
 ```
 <hr>
 
+# Unittest
+----------------
+The test runs are in the TEMCOIN/test/ folder.
+
 Documentation
 ----------------
 
