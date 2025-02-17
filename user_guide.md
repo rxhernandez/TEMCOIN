@@ -20,47 +20,18 @@ to the authors of the paper.
 # Installation
 ----------------
 
-Run the script for installation.
+Run the script for fast installation.
 ```bash
 $ curl -fsSL https://github.com/rxhernandez/TEMCOIN/blob/main/TEMCOIN_install.sh | bash
 ```
 
-<hr>
-
-# Unittest
-The testing codes are provided in the folder: 
-```
-TEMCOIN/tests/212
-```
-----------------
-
-
-
-<hr>
-
-Authors
-----------------
-
-The TEMCOIN codes were debeloped by Xingfei Wei, Qiankun Mo, and Rigoberto Hernandez.
-
-Contributors can be found [here](https://github.com/rxhernandez/TEMCOIN/blob/main/contributors).
-
-<hr>
-
-
-
-
-
-Download the TEMCOIN pacakge by git clone or download.
+Download and installation.
+Download the TEMCOIN pacakge on github.
 
 The two folders build/ and dist/ are not necessary for install TEMCOION.
 These two files are just an example of that if you have successfully installed TEMCOION you should have created build/ and dist/  by yourself.
 
-Run the script for installation.
-```bash
-$ curl -fsSL https://github.com/rxhernandez/TEMCOIN/blob/main/TEMCOIN_install.sh | bash
-```
-You may also install TEMCOIN manually: 
+Install TEMCOIN manually: 
 use the download option to download the TEMCOIN.zip then unzip TEMCOIN.zip 
 ```
 $ cd TEMCOIN
@@ -87,6 +58,23 @@ Then install TEMCOIN
 $ pip install dist/TEMCOIN-0.1.0-py3-none-any.whl
 ```
 
-Unittest:
-The test codes are provided in the folder: TEMCOIN/tests/
+<hr>
+
+# Unittest
+The testing codes are provided in the folder: 
+```
+TEMCOIN/tests/212
+```
+----------------
+
+<hr>
+
+Authors
+----------------
+
+The TEMCOIN codes were debeloped by Xingfei Wei, Qiankun Mo, and Rigoberto Hernandez.
+
+Contributors can be found [here](https://github.com/rxhernandez/TEMCOIN/blob/main/contributors).
+
+<hr>
 
