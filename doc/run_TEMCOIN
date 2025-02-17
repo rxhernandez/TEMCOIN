@@ -1,0 +1,33 @@
+After the TEMCOIN is installed:
+
+
+For Decision Trees code:
+src/DNA_origamic_classification_MLAI/DT/DT_10.py
+
+
+For Random Forest mcode:
+src/DNA_origamic_classification_MLAI/RF/RF_10.py
+
+
+Training and Fine-tuning AlexNet code:
+src/DNA_origamic_classification_MLAI/AlexNet_DNA_origami_classification/run1/AlexNet_v4.py
+Testing MD image AlexNet code:
+src/DNA_origamic_classification_MLAI/AlexNet_DNA_origami_classification/run1/AlexNet_predict_VMD.py
+Testing TEM image AlexNet code:
+src/DNA_origamic_classification_MLAI/AlexNet_DNA_origami_classification/run1/AlexNet_predict_TEM.py
+
+
+Training and Fine-tuning GoogLeNet code:
+src/DNA_origamic_classification_MLAI/GoogLeNet/run1/googlenet_v5.py
+Testing MD image GoogLeNet code:
+src/DNA_origamic_classification_MLAI/GoogLeNet/run1/googlenet_predict_VMD.py
+Testing TEM image GoogLeNet code:
+src/DNA_origamic_classification_MLAI/GoogLeNet/run1/googlenet_predict_TEM.py
+
+
+Training, Fine-tuning, and Testing VGG16 and VGG19 codes are in folder
+src/DNA_origamic_classification_MLAI/VGG/run1/
+
+
+Training, Fine-tuning, and Testing ResNet18, ResNet34, ResNet50 ResNet101, and ResNet152 codes are in folder
+src/DNA_origamic_classification_MLAI/ResNet/run1/
