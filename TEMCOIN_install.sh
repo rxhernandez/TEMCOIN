@@ -17,7 +17,7 @@ python -m build --wheel
 
 # Install the generated wheel file
 echo "Searching for and installing the latest wheel file..."
-WHL_FILE=$(ls dist/TEMCOIN-*.whl)
-pip install $WHL_FILE
 
+WHL_FILE=$(ls dist/TEMCOIN-*.whl)
+pip install "$WHL_FILE"
 echo "Installation completed!"
