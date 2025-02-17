@@ -1,5 +1,5 @@
 # Documentation & Installation
-
+<hr>
 Documentation
 ----------------
 
