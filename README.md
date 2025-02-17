@@ -11,58 +11,14 @@ Testing unknown datasets in folders: predictVMD/ and predictTEM/.
 The python3 codes are in the folder: DNA_origami_classification_MLAI/.
 All the 10 different runs are in the folder: results_plots/ with the python code to do data analysis and plot.
 
-<hr>
-
-# Installation
-Run the script for installation.
-```bash
-$ curl -fsSL https://github.com/rxhernandez/TEMCOIN/blob/main/TEMCOIN_install.sh | bash
-```
-Details on the installation of the code available in the [user_guide.md](https://github.com/rxhernandez/TEMCOIN/blob/main/user_guide.md).
-<hr>
-
-# Unittest
-The testing codes are provided in the folder: 
-```
-TEMCOIN/tests/212
-```
-----------------
-
-Documentation
-----------------
-
-This repository contains code to implement TEMCOIN. 
-It is a set of python scripts that runs namd in unix enviroments.
-
-* For details on the underlying theory and methods,
-please refer to the following paper:
-> DNA Origami Nanostructures Observed in Transmission Electron Microscopy Images can be Characterized through Convolutional Neural Networks (in preparation).
-
-Authors: 
-> Xingfei Wei, Qiankun Mo, Chi Chen, Mark Bathe, and Rigoberto Hernandez.
-
-* For details on how to use TEMCOIN please refer to the 
-[user_guide.md](https://github.com/rxhernandez/TEMCOIN/blob/main/user_guide.md) in the docs folder.
-
-* Any questions or comments please reach out via email
-to the authors of the paper.
-
-
-<hr>
-
-Authors
-----------------
-
-The TEMCOIN codes were debeloped by Xingfei Wei, Qiankun Mo, and Rigoberto Hernandez.
-
-Contributors can be found [here](https://github.com/rxhernandez/TEMCOIN/blob/main/contributors).
+Details on the use and installation of the code is available in the [user_guide.md](https://github.com/rxhernandez/TEMCOIN/blob/main/user_guide.md).
 
 <hr>
 
 Citing
 ----------------
 
-If you use database or codes, please cite the paper:
+If you use database or codes, please consider citing the paper:
 
 >X. Wei, Q. Mo, C. Chen, M. Bathe and R. Hernandez, "DNA Origami Nanostructures Observed in Transmission Electron Microscopy Images can be Characterized through Convolutional Neural Networks," (in preparation).
 
