@@ -11,7 +11,7 @@ please refer to the following paper:
 Authors: 
 > Xingfei Wei, Qiankun Mo, Chi Chen, Mark Bathe, and Rigoberto Hernandez.
 
-* For additional details on how to use TEMCOIN please refer to the docs folder.
+* For additional details on how to use TEMCOIN please refer to the [doc folder](https://github.com/rxhernandez/TEMCOIN/blob/main/doc).
 
 * Any questions or comments please reach out via email
 to the authors of the paper.
