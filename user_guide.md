@@ -25,9 +25,6 @@ Run the script for fast installation.
 $ curl -fsSL https://github.com/rxhernandez/TEMCOIN/blob/main/TEMCOIN_install.sh | bash
 ```
 
-Download and installation.
-Download the TEMCOIN pacakge on github.
-
 The two folders build/ and dist/ are not necessary for install TEMCOION.
 These two files are just an example of that if you have successfully installed TEMCOION you should have created build/ and dist/  by yourself.
 
