@@ -58,7 +58,6 @@ $ pip install dist/TEMCOIN-0.1.0-py3-none-any.whl
 ```
 
 
-
 Unittest
 ----------------
 
@@ -67,7 +66,6 @@ The testing codes are provided in the folder:
 TEMCOIN/tests/212
 ```
 
-<hr>
 
 Authors
 ----------------
