@@ -78,7 +78,7 @@ Authors
 
 The TEMCOIN codes were debeloped by Xingfei Wei, Qiankun Mo, and Rigoberto Hernandez.
 
-Contributors can be found [here](https://github.com/rxhernandez/TEMCOIN/graphs/contributors).
+Contributors can be found [here](https://github.com/rxhernandez/TEMCOIN/contributors).
 
 <hr>
 
