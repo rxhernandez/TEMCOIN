@@ -18,7 +18,7 @@ Run the script for installation.
 ```bash
 $ curl -fsSL https://github.com/rxhernandez/TEMCOIN/blob/main/TEMCOIN_install.sh | bash
 ```
-Details on the installation of code available in the [user_guide.md](https://github.com/rxhernandez/TEMCOIN/blob/main/user_guide.md).
+Details on the installation of the code available in the [user_guide.md](https://github.com/rxhernandez/TEMCOIN/blob/main/user_guide.md).
 <hr>
 
 # Unittest
