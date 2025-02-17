@@ -49,7 +49,7 @@ $ pip install dist/TEMCOIN-0.1.0-py3-none-any.whl
 
 # Unittest
 ----------------
-The test codes are provided in the folder: TEMCOIN/test/
+The testing codes are provided in the folder: TEMCOIN/tests/
 
 Documentation
 ----------------
