@@ -61,7 +61,7 @@ please refer to the following paper:
 Authors: 
 > Xingfei Wei, Qiankun Mo, Chi Chen, Mark Bathe, and Rigoberto Hernandez.
 
-* For details on how to use NestedAE please refer to the 
+* For details on how to use TEMCOIN please refer to the 
 [user_guide.md](https://github.com/rxhernandez/TEMCOIN/blob/main/user_guide.md) in the docs folder.
 
 * Any questions or comments please reach out via email
