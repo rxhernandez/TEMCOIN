@@ -1,3 +1,56 @@
+# Documentation
+----------------
+
+This repository contains code to implement TEMCOIN. 
+It is a set of python scripts that runs namd in unix enviroments.
+
+* For details on the underlying theory and methods,
+please refer to the following paper:
+> DNA Origami Nanostructures Observed in Transmission Electron Microscopy Images can be Characterized through Convolutional Neural Networks (in preparation).
+
+Authors: 
+> Xingfei Wei, Qiankun Mo, Chi Chen, Mark Bathe, and Rigoberto Hernandez.
+
+* For additional details on how to use TEMCOIN please refer to the docs folder.
+
+* Any questions or comments please reach out via email
+to the authors of the paper.
+
+
+# Installation
+----------------
+
+Run the script for installation.
+```bash
+$ curl -fsSL https://github.com/rxhernandez/TEMCOIN/blob/main/TEMCOIN_install.sh | bash
+```
+
+<hr>
+
+# Unittest
+The testing codes are provided in the folder: 
+```
+TEMCOIN/tests/212
+```
+----------------
+
+
+
+<hr>
+
+Authors
+----------------
+
+The TEMCOIN codes were debeloped by Xingfei Wei, Qiankun Mo, and Rigoberto Hernandez.
+
+Contributors can be found [here](https://github.com/rxhernandez/TEMCOIN/blob/main/contributors).
+
+<hr>
+
+
+
+
+
 Download the TEMCOIN pacakge by git clone or download.
 
 The two folders build/ and dist/ are not necessary for install TEMCOION.
