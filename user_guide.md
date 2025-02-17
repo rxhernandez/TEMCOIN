@@ -1,4 +1,7 @@
-# Documentation
+# Documentation & Installation
+----------------
+
+Documentation
 ----------------
 
 This repository contains code to implement TEMCOIN. 
@@ -17,7 +20,7 @@ Authors:
 to the authors of the paper.
 
 
-# Installation
+Installation
 ----------------
 
 Run the script for fast installation.
@@ -57,7 +60,9 @@ $ pip install dist/TEMCOIN-0.1.0-py3-none-any.whl
 
 <hr>
 
-# Unittest
+Unittest
+----------------
+
 The testing codes are provided in the folder: 
 ```
 TEMCOIN/tests/212
