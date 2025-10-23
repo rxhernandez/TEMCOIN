@@ -20,7 +20,7 @@ Citing
 
 If you use database or codes, please consider citing the paper:
 
->X. Wei, Q. Mo, C. Chen, M. Bathe and R. Hernandez, "DNA Origami Nanostructures Observed in Transmission Electron Microscopy Images can be Characterized through Convolutional Neural Networks," *J. Chem. Inf. Model.* **65**, 6526 (2025).
+>X. Wei, Q. Mo, C. Chen, M. Bathe and R. Hernandez, "Characterizing DNA Origami Nanostructures in TEM Images Using Convolutional Neural Networks," *J. Chem. Inf. Model.* **65**, 6526 (2025).
 DOI: 10.1021/acs.jcim.5c00330
 
 and/or this site:
