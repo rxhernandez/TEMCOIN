@@ -40,5 +40,5 @@ This work was supported by the National Science Foundation through Grant No.~CHE
 License
 ----------------
 
-NestedAE code and databases are distributed under terms of the [MIT License](https://github.com/rxhernandez/TEMCOIN/blob/main/LICENSE).
+TEMCOIN code and databases are distributed under terms of the [MIT License](https://github.com/rxhernandez/TEMCOIN/blob/main/LICENSE).
 
